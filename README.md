@@ -18,34 +18,53 @@ and the OM model call are opt-in.
 
 ## 🖥️ Overview Dashboard
 
-![Overview](screenshots/Overview.png)
+A unified command center providing a real-time view of global threat intelligence, vulnerabilities, OT/ICS security, cyber attack telemetry, and AI-assisted operations.
+
+<p align="center">
+  <img src="screenshots/Overview.png" alt="Overview Dashboard" width="1000">
+</p>
 
 ---
 
 ## 🤖 OM AI Analyst
 
-![OM AI Analyst](screenshots/OM%20ANALYST.png)
+The built-in AI cybersecurity analyst for threat hunting, IOC enrichment, OSINT correlation, incident response, and contextual security recommendations.
+
+<p align="center">
+  <img src="screenshots/OM%20ANALYST.png" alt="OM AI Analyst" width="1000">
+</p>
 
 ---
 
 ## 🔍 Threat Investigation
 
-![Investigation](screenshots/INVESTIGATE.png)
+Investigate IPs, domains, hashes, CVEs, and indicators of compromise with enriched intelligence gathered from multiple security sources.
+
+<p align="center">
+  <img src="screenshots/INVESTIGATE.png" alt="Threat Investigation" width="1000">
+</p>
 
 ---
 
 ## 🏭 OT / ICS Security Dashboard
 
-![OT ICS](screenshots/OT:ICS.png)
+Monitor industrial cybersecurity advisories, OT assets, ICS vulnerabilities, and operational technology security posture.
+
+<p align="center">
+  <img src="screenshots/OT:ICS.png" alt="OT ICS Dashboard" width="1000">
+</p>
 
 ---
 
 ## 🚨 Vulnerability Intelligence Feed
 
-![Vulnerability Feed](screenshots/VULN%20FEED.png)
+Track newly disclosed vulnerabilities with severity ratings, exploitation status, affected products, and remediation guidance.
+
+<p align="center">
+  <img src="screenshots/VULN%20FEED.png" alt="Vulnerability Feed" width="1000">
+</p>
 
 ---
-
 ## Quick start
 
 ```bash
