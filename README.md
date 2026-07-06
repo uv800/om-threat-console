@@ -14,6 +14,37 @@ response, OSINT, and sandbox work.
 
 Runs on **simulated data out of the box** — no keys required. Live intel feeds
 and the OM model call are opt-in.
+# 📸 Screenshots
+
+## 🖥️ Overview Dashboard
+
+![Overview](screenshots/Overview.png)
+
+---
+
+## 🤖 OM AI Analyst
+
+![OM AI Analyst](screenshots/OM%20ANALYST.png)
+
+---
+
+## 🔍 Threat Investigation
+
+![Investigation](screenshots/INVESTIGATE.png)
+
+---
+
+## 🏭 OT / ICS Security Dashboard
+
+![OT ICS](screenshots/OT:ICS.png)
+
+---
+
+## 🚨 Vulnerability Intelligence Feed
+
+![Vulnerability Feed](screenshots/VULN%20FEED.png)
+
+---
 
 ## Quick start
 
