@@ -1,0 +1,25 @@
+{
+  "name": "om-threat-console",
+  "private": true,
+  "version": "1.0.0",
+  "description": "OM // Unified Threat Intelligence Console — military-tactical OSINT/cyber dashboard with GEOINT map, live vuln feed, OT/ICS, sector breach analytics, and the OM AI analyst.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server.js",
+    "start": "concurrently -k \"npm:server\" \"npm:dev\""
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^8.2.2",
+    "express": "^4.19.2",
+    "vite": "^5.4.0"
+  }
+}
