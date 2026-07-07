@@ -164,14 +164,16 @@ npm run build && npm run preview
 ```
 ---
 
+---
+
 ## 📄 Copyright & Disclaimer
 
-© 2026 Urvish Atul Bhatti. All Rights Reserved.
+**© 2026 Urvish Atul Bhatti. All Rights Reserved.**
 
 OM // Unified Threat Intelligence Console is an independent personal project created for learning, research, and portfolio purposes.
 
-This project was developed entirely outside of my employment and does not contain proprietary code, confidential information, or intellectual property from any employer.
+This project was developed entirely outside of my employment and does not contain proprietary code, confidential information, trade secrets, or intellectual property belonging to any employer.
 
 The application uses simulated/demo data and is intended solely to demonstrate cybersecurity, OT/ICS, threat intelligence, and AI-assisted workflow concepts.
 
-© 2026 Urvish Atul Bhatti. All Rights Reserved. Unauthorized commercial use or redistribution without prior written permission is prohibited.
+This repository is provided for educational and portfolio purposes only. Unauthorized commercial use, redistribution, or reproduction of this work without prior written permission is prohibited.
