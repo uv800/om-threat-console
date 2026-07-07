@@ -174,4 +174,4 @@ This project was developed entirely outside of my employment and does not contai
 
 The application uses simulated/demo data and is intended solely to demonstrate cybersecurity, OT/ICS, threat intelligence, and AI-assisted workflow concepts.
 
-Unauthorized commercial redistribution of this work without permission is prohibited.
+© 2026 Urvish Atul Bhatti. All Rights Reserved. Unauthorized commercial use or redistribution without prior written permission is prohibited.
