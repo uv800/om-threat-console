@@ -162,3 +162,16 @@ vulnerability panel then pulls from NVD + CISA KEV; the other connectors
 ```bash
 npm run build && npm run preview
 ```
+---
+
+## 📄 Copyright & Disclaimer
+
+© 2026 Urvish Atul Bhatti. All Rights Reserved.
+
+OM // Unified Threat Intelligence Console is an independent personal project created for learning, research, and portfolio purposes.
+
+This project was developed entirely outside of my employment and does not contain proprietary code, confidential information, or intellectual property from any employer.
+
+The application uses simulated/demo data and is intended solely to demonstrate cybersecurity, OT/ICS, threat intelligence, and AI-assisted workflow concepts.
+
+Unauthorized commercial redistribution of this work without permission is prohibited.
